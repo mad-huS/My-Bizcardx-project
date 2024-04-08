@@ -17,3 +17,5 @@ These extracted information will be uploaded into the database by clicking on th
 
 ## 5. Creating an web app through Streamlit:
 After this we can use various streamlit functions to upload, modify and delete the data present in the database.
+
+## You can refer the code in the repository
