@@ -8,3 +8,12 @@ Bizcard is a user friendly application designed to streamline the process of cap
 
 ## 2. Extracting the information:
 The image is converted in to array format using numpy and then it is read and text is extracted using EasyOCR
+
+## 3. Parsing various types of information from the OCR data:
+we have to imply certain conditions. If all these conditions are satisfied, the code will append the text to the dict variable we have created.
+
+## 4. Uploading into the database:
+These extracted information will be uploaded into the database by clicking on the save button.
+
+## 5. Creating an web app through Streamlit app:
+After this we can use various streamlit functions to upload, modify and delete the data present in the database.
