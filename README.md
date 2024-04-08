@@ -1,2 +1,2 @@
 # My-Bizcardx-project
-In this Project, An application is developed in such a way that any business card can be uploaded, all the necessary information will be extracted and saved into the database. we can modify or delete the information uploaded whenever requried.
+Bizcard is a powerful application designed to streamline the process of capturing and organizing information from business cards. With its advanced optical character recognition (OCR) technology, Bizcard can effortlessly extract key details such as names, phone numbers, email addresses, and company names from any business card image.
