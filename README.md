@@ -15,5 +15,5 @@ we have to imply certain conditions. If all these conditions are satisfied, the 
 ## 4. Uploading into the database:
 These extracted information will be uploaded into the database by clicking on the save button.
 
-## 5. Creating an web app through Streamlit app:
+## 5. Creating an web app through Streamlit:
 After this we can use various streamlit functions to upload, modify and delete the data present in the database.
